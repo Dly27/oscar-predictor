@@ -1,0 +1,68 @@
+Year,movie year
+Name,nominee name
+Ch,"indicator for winner (1 yes, 2 no, 0 current year unknown)"
+Nom,number of oscar nominations
+Pic,picture nomination
+Dir,director nomination
+Aml,lead actor nomination
+Afl,lead actress nomination
+Ams,supporting actor nomination
+Afs,supporting actress nomination
+Scr,screenplay nomination
+Cin,cinematography nomination
+Art,art direction nomination
+Cos,costume nomination
+Sco,score nomination
+Son,song nomination
+Edi,editing nomination
+Sou,sound editing nomination
+For,foreign language nomination
+Anf,animated feature nomination
+Eff,sound or visual effects nomination
+Mak,makeup nomination
+Dan,dance direction nomination
+AD,assistant director nomination
+Gdr,golden globe drama winner
+Gmc,golden globe musical or comedy winner
+Gd,golden globe director winner
+Gm1,golden globe drama actor winner
+Gm2,golden globe musical or comedy actor winner
+Gf1,golden globe drama actress winner
+Gf2,golden globe musical or comedy actress winner
+PGA,producers guild winner
+DGA,directors guild winner
+Action,IMDb genre indicator
+Adventure,IMDb genre indicator
+Animation,IMDb genre indicator
+Biography,IMDb genre indicator
+Comedy,IMDb genre indicator
+Crime,IMDb genre indicator
+Docu,IMDb genre indicator
+Drama,IMDb genre indicator
+Family,IMDb genre indicator
+Fantasy,IMDb genre indicator
+Film-noir,IMDb genre indicator
+History,IMDb genre indicator
+Horror,IMDb genre indicator
+Music,IMDb genre indicator
+Musical,IMDb genre indicator
+Mystery,IMDb genre indicator
+Romance,IMDb genre indicator
+SciFi,IMDb genre indicator
+Sport,IMDb genre indicator
+Thriller,IMDb genre indicator
+War,IMDb genre indicator
+Western,IMDb genre indicator
+Length,runtime
+Days,days between release date and oscars ceremony
+G,mpaa rating indicator
+PG,mpaa rating indicator
+PG13,mpaa rating indicator
+R,mpaa rating indicator
+U,mpaa rating indicator
+Ebert,roger ebert rating
+NYFCC,new york film critics circle winner
+LAFCA,los angeles film critics association winner
+NSFC,national society of film critics winner
+NBR,national board of review of motion pictures winner
+WR,weighted average IMDb user rating
